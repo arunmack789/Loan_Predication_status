@@ -8,7 +8,7 @@ model = pickle.load(open(path + '/rf_model.pt','rb'))
 
 st.set_page_config(
     page_title="Loan Prediction App",
-    page_icon="🤖",
+    page_icon="🏦",
     layout="centered",
     initial_sidebar_state="expanded",
 )
